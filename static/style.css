@@ -1,0 +1,24 @@
+
+.myFont1 {
+    font-family: 'Cairo', sans-serif;
+}
+
+.myFont2 {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.card-bg {
+    background:linear-gradient(135deg, #CE9FFC 0%,#7367F0 100%);
+}
+
+.card-bg2{
+    background:linear-gradient(135deg, #C56CD6 0%,#3425AF 100%);
+}
+
+.card-bg3{
+    background:linear-gradient(135deg, #f2d50f 0%,#da0641 100%);
+}
+.navbarbg{
+    background:linear-gradient(135deg, #CE9FFC 0%,#7367F0 100%);
+}
+
